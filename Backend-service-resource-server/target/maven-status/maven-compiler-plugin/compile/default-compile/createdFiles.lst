@@ -1,0 +1,5 @@
+com\suraj\kalloli\backend\TesterController.class
+com\amrut\prabhu\product\Controller.class
+com\amrut\prabhu\product\SpringSecurityApplication.class
+com\suraj\kalloli\backend\RealmRoleConverter.class
+com\suraj\kalloli\backend\ResourceServerConfig.class
